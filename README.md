@@ -47,3 +47,12 @@ inicio
 fim
 
 Fim do modelo
+
+## Questão 7
+O erro está na declaração da classe, mais especificamente no nome. E necessário que nomes de classes não tenham espaço.
+
+## Questão 8
+O erro está no retorno do método maior(), que deveria ser do tipo inteiro, mas retorna um boolean, e no método maior, que é void mas mesmo assim possui um retorno.
+
+## Questão 9
+O método main foi declarado de forma errônea, invés da sintaxe correta, que é public static void main(String[] args). Além disso, o método, que é void, está retornando um boolean

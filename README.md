@@ -36,4 +36,14 @@ inicio
     numJogadores = numJogadores - 1
 fim
 
+operacao imprimirDados()
+inicio
+    imprimir nome
+    imprimir esporte
+    imprimir numJogadores 
+    imprimir numJogos 
+    imprimir numVitorias 
+    imprimir numEmpates
+fim
+
 Fim do modelo

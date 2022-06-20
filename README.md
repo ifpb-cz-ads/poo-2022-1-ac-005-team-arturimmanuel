@@ -1,3 +1,25 @@
+## Questão 1
+Modelo lampada // Representa uma lampada na loja
+Inicio do modelo 
+    dado ligada //indica se a lampada esta ligada
+    dado voltagem // indica a voltagem da lampada 
+    dado preco //indica o preco da lampada 
+    dado tipo //indica o tipo da lampada (incandescente, fluorescente)
+    dado queimada // indica se a lampada está queimada ou não
+
+operação ligarLampada()
+inicio
+    ligado = verdadeiro
+fim
+
+operacao desligarLampada()
+inicio
+    ligado = falso
+fim
+
+
+Fim do modelo
+
 ## Questão 2
 
 Modelo timeEsporte// Representa um time de um esporte qualquer
